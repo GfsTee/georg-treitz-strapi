@@ -4,12 +4,10 @@ module.exports = ({ env }) => ({
     default: {
       connector: 'mongoose',
       settings: {
-        host: env('DATABASE_HOST', 'cluster.ie0xu.mongodb.net'),
+        uri: env('DATABASE_URI'),
         srv: env.bool('DATABASE_SRV', true),
         port: env.int('DATABASE_PORT', 27017),
-        database: env('DATABASE_NAME', 'georg-treitz'),
-        username: env('DATABASE_USERNAME', 'gfstee'),
-        password: env('DATABASE_PASSWORD', 'Q43gzxHY06puowDc'),
+        database: env('DATABASE_NAME'),
       },
       options: {
         authenticationDatabase: env('AUTHENTICATION_DATABASE', null),
