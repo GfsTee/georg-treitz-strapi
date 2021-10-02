@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "photos",
+  "info": {
+    "name": "Photos"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "default": "title"
+    },
+    "technic": {
+      "type": "string"
+    },
+    "size": {
+      "type": "string"
+    },
+    "year": {
+      "type": "integer"
+    },
+    "img": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": true,
+      "pluginOptions": {}
+    }
+  }
+}
