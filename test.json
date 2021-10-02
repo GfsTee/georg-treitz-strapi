@@ -1,0 +1,204 @@
+[
+    {
+        "img": [
+            {
+                "_id": "615890f6b71fa02874478d8f",
+                "name": "Georg_Treitz_lys_CCI_I.jpg",
+                "alternativeText": "",
+                "caption": "",
+                "hash": "Georg_Treitz_lys_CCI_I_e7eca99bf4",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 774.51,
+                "width": 2560,
+                "height": 2568,
+                "url": "https://res.cloudinary.com/gfstee/image/upload/v1633194225/Georg_Treitz_lys_CCI_I_e7eca99bf4.jpg",
+                "provider_metadata": {
+                    "public_id": "Georg_Treitz_lys_CCI_I_e7eca99bf4",
+                    "resource_type": "image"
+                },
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_Georg_Treitz_lys_CCI_I.jpg",
+                        "hash": "thumbnail_Georg_Treitz_lys_CCI_I_e7eca99bf4",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 156,
+                        "height": 156,
+                        "size": 7.7,
+                        "path": null,
+                        "url": "https://res.cloudinary.com/gfstee/image/upload/v1633194226/thumbnail_Georg_Treitz_lys_CCI_I_e7eca99bf4.jpg",
+                        "provider_metadata": {
+                            "public_id": "thumbnail_Georg_Treitz_lys_CCI_I_e7eca99bf4",
+                            "resource_type": "image"
+                        }
+                    },
+                    "large": {
+                        "name": "large_Georg_Treitz_lys_CCI_I.jpg",
+                        "hash": "large_Georg_Treitz_lys_CCI_I_e7eca99bf4",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 997,
+                        "height": 1000,
+                        "size": 224.66,
+                        "path": null,
+                        "url": "https://res.cloudinary.com/gfstee/image/upload/v1633194227/large_Georg_Treitz_lys_CCI_I_e7eca99bf4.jpg",
+                        "provider_metadata": {
+                            "public_id": "large_Georg_Treitz_lys_CCI_I_e7eca99bf4",
+                            "resource_type": "image"
+                        }
+                    },
+                    "medium": {
+                        "name": "medium_Georg_Treitz_lys_CCI_I.jpg",
+                        "hash": "medium_Georg_Treitz_lys_CCI_I_e7eca99bf4",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 748,
+                        "height": 750,
+                        "size": 133.71,
+                        "path": null,
+                        "url": "https://res.cloudinary.com/gfstee/image/upload/v1633194228/medium_Georg_Treitz_lys_CCI_I_e7eca99bf4.jpg",
+                        "provider_metadata": {
+                            "public_id": "medium_Georg_Treitz_lys_CCI_I_e7eca99bf4",
+                            "resource_type": "image"
+                        }
+                    },
+                    "small": {
+                        "name": "small_Georg_Treitz_lys_CCI_I.jpg",
+                        "hash": "small_Georg_Treitz_lys_CCI_I_e7eca99bf4",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 498,
+                        "height": 500,
+                        "size": 60.63,
+                        "path": null,
+                        "url": "https://res.cloudinary.com/gfstee/image/upload/v1633194229/small_Georg_Treitz_lys_CCI_I_e7eca99bf4.jpg",
+                        "provider_metadata": {
+                            "public_id": "small_Georg_Treitz_lys_CCI_I_e7eca99bf4",
+                            "resource_type": "image"
+                        }
+                    }
+                },
+                "provider": "cloudinary",
+                "related": [
+                    "61589141b71fa02874478d90"
+                ],
+                "createdAt": "2021-10-02T17:03:50.042Z",
+                "updatedAt": "2021-10-02T17:05:05.704Z",
+                "__v": 0,
+                "id": "615890f6b71fa02874478d8f"
+            }
+        ],
+        "_id": "61589141b71fa02874478d90",
+        "title": "*aus der Serie lys* CCI I",
+        "technic": "Mischtechnik auf Glas, LED",
+        "year": 2021,
+        "size": "19x19cm",
+        "published_at": "2021-10-02T17:05:18.256Z",
+        "createdAt": "2021-10-02T17:05:05.649Z",
+        "updatedAt": "2021-10-02T17:09:03.669Z",
+        "__v": 0,
+        "id": "61589141b71fa02874478d90"
+    },
+    {
+        "img": [
+            {
+                "_id": "61589331c9d48152542acf35",
+                "name": "Georg_Treitz_lys_CCI_I_Licht.jpg",
+                "alternativeText": "",
+                "caption": "",
+                "hash": "Georg_Treitz_lys_CCI_I_Licht_78aa44f70d",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 755.62,
+                "width": 2568,
+                "height": 2564,
+                "url": "https://res.cloudinary.com/gfstee/image/upload/v1633194797/Georg_Treitz_lys_CCI_I_Licht_78aa44f70d.jpg",
+                "provider_metadata": {
+                    "public_id": "Georg_Treitz_lys_CCI_I_Licht_78aa44f70d",
+                    "resource_type": "image"
+                },
+                "formats": {
+                    "thumbnail": {
+                        "name": "thumbnail_Georg_Treitz_lys_CCI_I_Licht.jpg",
+                        "hash": "thumbnail_Georg_Treitz_lys_CCI_I_Licht_78aa44f70d",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 156,
+                        "height": 156,
+                        "size": 7.98,
+                        "path": null,
+                        "url": "https://res.cloudinary.com/gfstee/image/upload/v1633194798/thumbnail_Georg_Treitz_lys_CCI_I_Licht_78aa44f70d.jpg",
+                        "provider_metadata": {
+                            "public_id": "thumbnail_Georg_Treitz_lys_CCI_I_Licht_78aa44f70d",
+                            "resource_type": "image"
+                        }
+                    },
+                    "large": {
+                        "name": "large_Georg_Treitz_lys_CCI_I_Licht.jpg",
+                        "hash": "large_Georg_Treitz_lys_CCI_I_Licht_78aa44f70d",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 1000,
+                        "height": 998,
+                        "size": 224.27,
+                        "path": null,
+                        "url": "https://res.cloudinary.com/gfstee/image/upload/v1633194799/large_Georg_Treitz_lys_CCI_I_Licht_78aa44f70d.jpg",
+                        "provider_metadata": {
+                            "public_id": "large_Georg_Treitz_lys_CCI_I_Licht_78aa44f70d",
+                            "resource_type": "image"
+                        }
+                    },
+                    "medium": {
+                        "name": "medium_Georg_Treitz_lys_CCI_I_Licht.jpg",
+                        "hash": "medium_Georg_Treitz_lys_CCI_I_Licht_78aa44f70d",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 750,
+                        "height": 749,
+                        "size": 133.74,
+                        "path": null,
+                        "url": "https://res.cloudinary.com/gfstee/image/upload/v1633194800/medium_Georg_Treitz_lys_CCI_I_Licht_78aa44f70d.jpg",
+                        "provider_metadata": {
+                            "public_id": "medium_Georg_Treitz_lys_CCI_I_Licht_78aa44f70d",
+                            "resource_type": "image"
+                        }
+                    },
+                    "small": {
+                        "name": "small_Georg_Treitz_lys_CCI_I_Licht.jpg",
+                        "hash": "small_Georg_Treitz_lys_CCI_I_Licht_78aa44f70d",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "width": 500,
+                        "height": 499,
+                        "size": 60.95,
+                        "path": null,
+                        "url": "https://res.cloudinary.com/gfstee/image/upload/v1633194801/small_Georg_Treitz_lys_CCI_I_Licht_78aa44f70d.jpg",
+                        "provider_metadata": {
+                            "public_id": "small_Georg_Treitz_lys_CCI_I_Licht_78aa44f70d",
+                            "resource_type": "image"
+                        }
+                    }
+                },
+                "provider": "cloudinary",
+                "related": [
+                    "61589366c9d48152542acf36"
+                ],
+                "createdAt": "2021-10-02T17:13:21.784Z",
+                "updatedAt": "2021-10-02T17:14:14.816Z",
+                "__v": 0,
+                "id": "61589331c9d48152542acf35"
+            }
+        ],
+        "_id": "61589366c9d48152542acf36",
+        "technic": "Mischtechnik auf Glas, LED",
+        "size": "19x19cm",
+        "year": 2020,
+        "title": "*aus der Serie lys* CCI I - Licht an",
+        "published_at": "2021-10-02T17:14:19.061Z",
+        "createdAt": "2021-10-02T17:14:14.767Z",
+        "updatedAt": "2021-10-02T17:14:19.178Z",
+        "__v": 0,
+        "id": "61589366c9d48152542acf36"
+    }
+]

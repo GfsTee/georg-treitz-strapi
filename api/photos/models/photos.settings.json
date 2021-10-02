@@ -2,7 +2,8 @@
   "kind": "collectionType",
   "collectionName": "photos",
   "info": {
-    "name": "Photos"
+    "name": "Photos",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -11,11 +12,6 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "title": {
-      "type": "string",
-      "required": true,
-      "default": "title"
-    },
     "technic": {
       "type": "string"
     },
@@ -34,6 +30,10 @@
       "plugin": "upload",
       "required": true,
       "pluginOptions": {}
+    },
+    "title": {
+      "type": "richtext",
+      "required": true
     }
   }
 }
