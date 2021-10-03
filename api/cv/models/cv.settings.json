@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cvs",
+  "info": {
+    "name": "cv"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "year": {
+      "type": "integer"
+    },
+    "text": {
+      "type": "richtext"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}
