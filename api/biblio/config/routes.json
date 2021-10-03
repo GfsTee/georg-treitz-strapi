@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/biblios",
+      "handler": "biblio.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/biblios/count",
+      "handler": "biblio.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/biblios/:id",
+      "handler": "biblio.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/biblios",
+      "handler": "biblio.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/biblios/:id",
+      "handler": "biblio.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/biblios/:id",
+      "handler": "biblio.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

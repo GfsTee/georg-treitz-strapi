@@ -1,8 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "cvs",
+  "collectionName": "groups",
   "info": {
-    "name": "vita",
+    "name": "group",
     "description": ""
   },
   "options": {
@@ -13,7 +13,7 @@
   "pluginOptions": {},
   "attributes": {
     "year": {
-      "type": "string"
+      "type": "integer"
     },
     "text": {
       "type": "string"

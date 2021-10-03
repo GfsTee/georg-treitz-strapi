@@ -1,8 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "cvs",
+  "collectionName": "singles",
   "info": {
-    "name": "vita",
+    "name": "single",
     "description": ""
   },
   "options": {
@@ -13,7 +13,7 @@
   "pluginOptions": {},
   "attributes": {
     "year": {
-      "type": "string"
+      "type": "integer"
     },
     "text": {
       "type": "string"
